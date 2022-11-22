@@ -5,6 +5,10 @@
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
+body {
+  background-image: url(" https://cdn.motor1.com/images/mgl/qkkZ2v/s1/2023-rezvani-beast-teasers.jpg"), ;
+}
+
 .wrapper {
   height: 100%;
   width: 100%;
