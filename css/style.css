@@ -194,4 +194,20 @@ input[type=checkbox] {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   color: white;
+}
+
+.whitde {
+  color: #fff;
+}
+
+.black {
+  color: black;
+}
+
+.padding {
+  padding: 20px;
+}
+
+.fontsize {
+  font-size: 40px;
 }/*# sourceMappingURL=style.css.map */

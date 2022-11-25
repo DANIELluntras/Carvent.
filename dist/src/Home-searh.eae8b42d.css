@@ -1,13 +1,5 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
-}
-
 body {
-  background-image: url(" https://cdn.motor1.com/images/mgl/qkkZ2v/s1/2023-rezvani-beast-teasers.jpg");
-  background-size: 100%;
+  background-color: #000;
 }
 
 .wrapper {
@@ -174,7 +166,6 @@ input[type="checkbox"] {
 
 .title-website {
   color: #fff;
-  padding: 20px;
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
@@ -194,4 +185,39 @@ input[type="checkbox"] {
   font-size: 40px;
 }
 
-/*# sourceMappingURL=index.b2625c6b.css.map */
+.andstyle {
+  height: 27px;
+  width: 200px;
+  color: #000;
+  background-color: #b7b5b5;
+  border: none;
+  border-radius: 7px;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  font-size: 20px;
+  transition: all .9s;
+}
+
+.andstyle:hover {
+  background-color: #fff;
+}
+
+.input-search {
+  height: 27px;
+  width: 900px;
+  border: none;
+  border-radius: 7px;
+}
+
+.navigatiuon {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.absolut {
+  position: absolute;
+}
+
+/*# sourceMappingURL=Home-searh.eae8b42d.css.map */

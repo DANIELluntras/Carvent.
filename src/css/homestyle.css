@@ -1,15 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
-  body {
-    // https://cdn.motor1.com/images/mgl/qkkZ2v/s1/2023-rezvani-beast-teasers.jpg
-    background-image: url(" https://cdn.motor1.com/images/mgl/qkkZ2v/s1/2023-rezvani-beast-teasers.jpg");
-    background-size: 100% ;
-  }
-  .wrapper{
+body {
+  background-color: black;
+}
+/* and that is style from  */
+.wrapper{
     position: fixed;
     top: 0;
     /*left: -100%;*/
@@ -170,26 +163,57 @@
      transition-delay: .6s;
     transform: translateX(-100px);
   }
-.title-website{
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:white
+
+
+
+
+
+/*  that is my  */
+.title-website {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
 }
-.whitde{
-  color:#fff;
+.whitde {
+  color: #fff;
 }
-.black{
-  color:black;
+.black {
+  color: black;
 }
-.padding{
-padding:20px;
+.padding {
+  padding: 20px;
 }
-.fontsize{
-  font-size:40px;
+.fontsize {
+  font-size: 40px;
 }
-
-
-
-
-
-
+.andstyle {
+  background-color: rgb(183, 181, 181);
+  border: none;
+  height: 27px;
+  width: 200px;
+  border-radius: 7px;
+  transition: all 0.9s;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+.andstyle:hover {
+  background-color: #fff;
+}
+.input-search {
+  border: none;
+  height: 27px;
+  border-radius: 7px;
+  width: 900px;
+}
+.navigatiuon {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.absolut {
+  position: absolute;
+}
