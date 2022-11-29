@@ -124,6 +124,8 @@ body {
 }
 
 input[type="checkbox"] {
+  color: #202020;
+  font-size: 40px;
   display: none;
 }
 
@@ -198,10 +200,12 @@ input[type="checkbox"] {
 }
 
 .input-search {
+  color: #000;
   height: 27px;
   width: 900px;
   border: none;
   border-radius: 7px;
+  font-size: 20px;
 }
 
 .navigatiuon {
@@ -339,6 +343,14 @@ img {
 
 .hidden {
   display: none;
+}
+
+.searchcar {
+  padding: 30px;
+}
+
+#search {
+  padding: 50px;
 }
 
 /*# sourceMappingURL=Home-searh.eae8b42d.css.map */

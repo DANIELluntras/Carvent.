@@ -128,6 +128,8 @@ body {
   }
   input[type="checkbox"]{
     display: none;
+    color: #202020;
+    font-size: 40px;
   }
   .content{
     position: absolute;
@@ -204,6 +206,8 @@ body {
   background-color: #fff;
 }
 .input-search {
+  color: #000;
+  font-size: 20px;
   border: none;
   height: 27px;
   border-radius: 7px;
@@ -330,6 +334,9 @@ img{
 }
 /* ba vezi ca asta ii pentru a iti  a iti deschide  imaginea aia faina 
  */
-/* .searchcar{
-    display: none;
-} */
+.searchcar{
+  padding: 30px;
+}
+#search{
+  padding:50px;
+}

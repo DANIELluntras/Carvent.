@@ -1,3 +1,11 @@
+const btn = document.getElementById("btn");
+btn.addEventListener("click", function() {
+    console.log("daniel luntras");
+    const masina = document.getElementById("afisaza");
+    const search = document.getElementById("search");
+    if (masina.style.display === "block") masina.style.display = "none";
+    else masina.style.display = "block";
+});
 let slideIndex = 1;
 showSlides(slideIndex);
 function plusSlides(n) {
