@@ -4,14 +4,24 @@
 
 }
 body{
+background-color: rgb(38, 38, 38);  
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .footer-nice{
     text-align: center;
 }
 .btn{
-    padding:10px
+    margin:10px;
+    color:white;
+
 }
 .footer-pac{
+    padding: 70px;
+    background-color: black;
+text-align: center;
 
+}
+.finnaly-paragraf{
+    margin:50px;
+    color:white;
 }

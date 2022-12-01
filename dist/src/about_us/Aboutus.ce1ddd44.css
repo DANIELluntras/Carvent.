@@ -4,6 +4,7 @@
 }
 
 body {
+  background-color: #262626;
   font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
@@ -12,7 +13,19 @@ body {
 }
 
 .btn {
-  padding: 10px;
+  color: #fff;
+  margin: 10px;
+}
+
+.footer-pac {
+  text-align: center;
+  background-color: #000;
+  padding: 70px;
+}
+
+.finnaly-paragraf {
+  color: #fff;
+  margin: 50px;
 }
 
 /*# sourceMappingURL=Aboutus.ce1ddd44.css.map */
