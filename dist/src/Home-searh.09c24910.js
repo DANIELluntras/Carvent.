@@ -25,5 +25,9 @@ function showSlides(n) {
     slides[slideIndex - 1].style.display = "block";
     dots[slideIndex - 1].className += " active";
 }
+const url = new URL("https://github.com/diegohaz/rest/blob/master/test/index.js");
+console.log(url.hostname); // "www.example.com"
+console.log(url.pathname);
+console.log(url);
 
 //# sourceMappingURL=Home-searh.09c24910.js.map

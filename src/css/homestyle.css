@@ -340,3 +340,15 @@ img{
 #search{
   padding:50px;
 }
+
+.back{
+ 
+display: flex;
+
+
+
+}
+/* .backed{
+  position: absolute;
+  text-align: right;
+} */
