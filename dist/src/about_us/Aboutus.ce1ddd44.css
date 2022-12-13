@@ -8,17 +8,23 @@ body {
   text-align: center;
   width: 50%;
   position: absolut;
-  padding: 17%;
+  padding: 20%;
   display: flex;
 }
 
 a {
-  color: #f0f8ff;
-  background-color: #0ff;
+  color: #000;
+  background-color: #fdfdfd;
   border-radius: 9px;
   margin: 30px;
   padding: 20px;
   display: flex;
+}
+
+.about-me-css {
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 /*# sourceMappingURL=Aboutus.ce1ddd44.css.map */
