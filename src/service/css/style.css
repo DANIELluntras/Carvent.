@@ -1,4 +1,4 @@
-/* * {
+ * {
     margin: 0;
     padding: 0;
 
@@ -9,12 +9,16 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.w {
-    color: aliceblue;
-
-
-
+#widget-container {
+    border: 1px solid #d9dadb;
+    border-radius: 3px;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+    width: 100%;
+   
 }
-.crypto{
-
-} */
+ /* height: 100vh; */
+ .tradingview-widget-container{
+    height: 100vh;
+ }
